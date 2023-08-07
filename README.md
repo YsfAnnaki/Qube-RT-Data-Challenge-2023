@@ -2,7 +2,7 @@
 
 [Youssef ANNAKI](https://www.linkedin.com/in/youssef-annaki-a91ab5192/)
 
-Work in progress.
+Finale Private leaderboard rank: 10 / 344 .
 
 ## Summary
 Please refere to the [Challenge official webpage](https://challengedata.ens.fr/participants/challenges/97/).
